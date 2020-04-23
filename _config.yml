@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Phyl's bizarre adventure"
-description:	       'a minimalist Jekyll theme'
+description:	       'デスクリプション'
 author:              'Phyl'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
