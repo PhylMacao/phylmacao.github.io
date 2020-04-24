@@ -48,7 +48,7 @@ You can find thousands of videos and articles about most of the things you can t
 
 The plus ultra software for language learners and med students. Basically it is a program to quickly and effectively make and learn flashcards. The program by default isn't the best looking but as it is open source it is freely extensible and there are a lot of nice plugins for it. Also the cards are very flexible, they can contain text/images/audio/video/etc. You can read the documentation [here](https://docs.ankiweb.net/#/). If you just want a quickstart you can watch a tutorial (*haha*) on YouTube.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5urUZUWoTLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/5urUZUWoTLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 I recommend putting a some time into learning the basics by watching the tutorial I linked on 1.5x speed and skimming through the docs and of course by experimenting. Also I recommend to install the newest version possible as there were pretty nice improvements and there is also a built in night mode now which needed a plugin earlier (it makes the interface much less painful to look at for me). I also recommend these plugins:
   * [MIA Japanese](https://ankiweb.net/shared/info/278530045) or the less bloated and more classic [Japanese support](https://ankiweb.net/shared/info/3918629684)
@@ -69,7 +69,7 @@ Previously an anki plugin now a browser extension this is one of my best finds f
 Japanese <del>are mad lads so they</del> have three separate writing systems *which they combine into one* so you need to learn all of them. Luckily two of them are not that hard to learn and after that you'll be able to write basically everything <del>just not correctly</del>.
 Here is a two hour video explaining all of the basics you need. It's long because it explains everything nice and slowly and it is patched together from multiple videos so you can practice. You should repeat the sounds of the characters out loud while watching the video. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_wZHqOghvSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/_wZHqOghvSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 After you get the gist of it you can start drilling. For recognition practice [this deck](https://ankiweb.net/shared/info/576084877) looks pretty good (I used the deck it is built upon to learn kana) but there are a lot of shared kana decks so if you don't like it you can always pick another one. Also there are a ton of "learn kana" apps for smartphones. Most of them are garbage. I think repping Anki (what you *can* do on mobile) and writing on paper would be the best choice. You can find a ton of song lyrics converted to romaji you can practice writing that down with kana. If you have one of those smart things on which you can write with a pen or you just can't resist the convenience of using an app choose one that makes you write your kana and avoid multiple choice ones like Memrise and Duolingo.
 
