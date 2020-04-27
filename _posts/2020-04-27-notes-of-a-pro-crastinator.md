@@ -11,7 +11,7 @@ University students are mad. By university students I mean *those students*. Who
 
 ![](../assets/img/textbooks.jpg)
 
-At the start of this semester I felt like there's a chance. I just went back to my studies. A new age, new people, tabula rasa. I went to a research lab. I did not skip any classes. It was hard but thanks to a friend I was able to start building up some good habits. Then the virus hit and it all went to [insert rhyimg word here]. The first weeks were OK-ish. (WARNING: excuses incoming in 3 2 1 ...)
+At the start of this semester I felt like there's a chance. I just went back to my studies. A new age, new people, tabula rasa. I went to a research lab. I did not skip any classes. It was hard but thanks to a friend I was able to start building up some good habits. Then the virus hit and it all went to [insert rhyming word here]. The first weeks were OK-ish. (WARNING: excuses incoming in 3 2 1 ...)
 
 But, I came home... this makes living easier and much more safe of course. But there are two things at your home which make life so much harder when you want to change: A well known space and people who "know you". Both of these are things that induce habits. In my case these are the habits I worked so hard to weed out. I feel like the changes I was able to make in those one and a half months in my new environment were negated in mere weeks. I skipped classes, I procrastinated entire days I wanted to spend on my studies. I got to the point where I'm so profoundly behind schedule the simple thought of the amount I need to learn makes me scared and want to procrastinate more. I managed to build my little vicious cycle again. Still, I want to believe this time is different. I want to believe all those wasted hours were at least for a lesson.
 
